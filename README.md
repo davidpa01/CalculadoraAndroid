@@ -51,7 +51,7 @@ y el resultado es el siguiente.
 </p>
 <h2>Funcionamiento de la aplicación<h2>
 <p>
-<img width="100px" src="./images/Android Emulator - Galaxy_Nexus_API_30_5554 2021-05-06 17-27-39.mp4"/></br></br>
+<img src="./images/Android-Emulator-Galaxy_Nexus_API_30_5554-2021-05-06-17-27-39.gif"/></br></br>
 </p>
 <h2>Bibliografia<h2>
 -Video para el icono</br>
